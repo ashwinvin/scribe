@@ -1,2 +1,2 @@
 # Scribe
-Package builder for python
+Documentation builder for python
