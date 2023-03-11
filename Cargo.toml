@@ -1,0 +1,2 @@
+[workspace]
+members = ["scribe", "item_specs"]

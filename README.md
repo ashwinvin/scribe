@@ -1,2 +1,2 @@
-# wrap
+# Scribe
 Package builder for python

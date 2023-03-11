@@ -1,0 +1,16 @@
+[package]
+name = "item_specs"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+doctest = true
+test = false
+
+[dependencies]
+# derivative = { workspace = true }
+miette = "*"
+peace = { version = "0.0.7", default-features = false }
+serde = { version = "1.0.152", features = ["derive"] }
+thiserror = "1.0.38"
